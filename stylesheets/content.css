@@ -6,36 +6,78 @@ body {
 }
 .r-card1, .r-card2, .r-card3, .r-card4, .r-card5 {
   width: 169px;
-  margin-right: 30px;
+  height: 30px;
+  margin-top: 30px;
+  margin-left: 30px;
   position: relative;
   display: inline-block;
+  filter: drop-shadow(0px 4px 32px rgba(0, 0, 0, 0.12));
 }
 .r-card6, .r-card7, .r-card8, .r-card9, .r-card10 {
   width: 169px;
-  margin-right: 30px;
+  height: 30px;
+  margin-top: 30px;
+  margin-left: 30px;
   position: relative;
   display: inline-block;
+  filter: drop-shadow(0px 4px 32px rgba(0, 0, 0, 0.12));
 }
 .r-card11, .r-card12, .r-card13, .r-card14, .r-card15 {
   width: 169px;
-  margin-right: 30px;
+  height: 30px;
+  margin-top: 30px;
+  margin-left: 30px;
   position: relative;
   display: inline-block;
+  filter: drop-shadow(0px 4px 32px rgba(0, 0, 0, 0.12));
 }
 .r-card16, .r-card17, .r-card18, .r-card19, .r-card20 {
   width: 169px;
-  margin-right: 30px;
+  height: 30px;
+  margin-top: 30px;
+  margin-left: 30px;
   position: relative;
   display: inline-block;
+  filter: drop-shadow(0px 4px 32px rgba(0, 0, 0, 0.12));
 }
 .r-card21, .r-card22, .r-card23, .r-card24, .r-card25 {
   width: 169px;
-  margin-right: 30px;
+  height: 30px;
+  margin-top: 30px;
+  margin-left: 30px;
   position: relative;
   display: inline-block;
+  filter: drop-shadow(0px 4px 32px rgba(0, 0, 0, 0.12));
 }
 .progressbar {
-  position: sticky;
-  margin-left: 30px;
+  position: relative;
+  margin-top: 30px;
+  margin-left: 100px;
   z-index: 2;
+  filter: drop-shadow(0px 4px 32px rgba(0, 0, 0, 0.12));
+}
+/* .footer {
+  margin-top: 30px;
+  position: relative;
+} */
+.name {
+  margin-left: 30px;
+  position: absolute;
+  font-family: 'Manrope', sans-serif;
+  font-style: medium;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 135px;
+  color: white;
+}
+.logo {
+  position: relative;
+  margin-top: 30px;
+}
+.rectangle {
+  width: 100%;
+  height: 42px;
+  margin-top: 30px;
+  background-color: black;
+  /* z-index: -1; */
 }
